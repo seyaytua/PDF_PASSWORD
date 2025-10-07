@@ -1,2 +1,4 @@
 pikepdf
 pyinstaller
+PyPDF2
+pyinstaller
