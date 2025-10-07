@@ -1,4 +1,3 @@
 pikepdf
 pyinstaller
-PyPDF2
-pyinstaller
+PyQt5
